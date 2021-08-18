@@ -1,0 +1,32 @@
+.nameofobjects{
+    color:green;
+    }
+    body{
+        background-color:lightgreen;
+    }
+    .heading{
+    width:80%;
+    font-size:22px;
+    background-color:green;
+    color:lightgreen;
+    }
+    #camera,#result{
+        border:2px dashed green;
+        width:350px;
+        height:300px;
+    
+    }
+    #resultaccuracy,#resultojectname{
+        color:green;
+    }
+    #captureImage,#identifyImage{
+        background-color:green;
+        color:lightgreen;
+    }
+    #paragraph{
+        color:darkgreen;
+    }
+    #label,#object,#accuracy{
+        color:darkgreen;
+        
+    }
